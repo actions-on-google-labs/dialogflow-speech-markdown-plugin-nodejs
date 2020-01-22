@@ -1,7 +1,7 @@
 {
   "name": "actions-on-google-speech-markdown-plugin",
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "version": "1.0.1",
+  "main": "dist/src/index.js",
   "author": "Google Inc",
   "license": "Apache-2.0",
   "private": false,
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "actions-on-google": "^2.12.0",
-    "speechmarkdown-js": "^0.8.2-beta.1"
+    "speechmarkdown-js": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^2.3.0",
